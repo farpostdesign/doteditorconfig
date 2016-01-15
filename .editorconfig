@@ -34,6 +34,12 @@ indent_size = 4
 
 [**.html]
 indent_size = 4
+
+[**.erb]
+indent_size = 4
+
+[**.slim]
+indent_size = 2
  
 [**.xsl]
 indent_size = 4
